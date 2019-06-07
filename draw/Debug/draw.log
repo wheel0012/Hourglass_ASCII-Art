@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(9,28): warning C4474:  'scanf_s' : too many arguments passed for format string
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(9,28): message :  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(15,30): warning C4013:  'malloc' undefined; assuming extern returning int
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(18,45): warning C4047:  '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(46,28): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(11,6): warning C4101:  'right': unreferenced local variable
+C:\Users\wheel\source\repos\KNOU\draw\Source.c(58,1): warning C4047:  'initializing': 'int *' differs in levels of indirection from 'int'
+  draw.vcxproj -> C:\Users\wheel\source\repos\KNOU\Debug\draw.exe
