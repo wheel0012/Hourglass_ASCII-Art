@@ -1,2 +1,3 @@
 ﻿  Source.c
-  KNOU.vcxproj -> C:\Users\wheel\source\repos\KNOU\Debug\KNOU.exe
+C:\Users\wheel\Documents\GitHub\KNOU-WORK\KNOU\Source.c(8,7): warning C4013:  'gets' undefined; assuming extern returning int
+  KNOU.vcxproj -> C:\Users\wheel\Documents\GitHub\KNOU-WORK\Debug\KNOU.exe
